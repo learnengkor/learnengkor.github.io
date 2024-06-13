@@ -1,6 +1,7 @@
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
+  background: linear-gradient(to right, dodgerblue 0%, deepskyblue 100%);
 }
 
 /* Post navigation links */
