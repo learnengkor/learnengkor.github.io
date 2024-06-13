@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+hi! this site contains about learning korean and english 
 
-Maybe say a some things about yourself.
+if you have anything to discuss you can add your comments
 
-Or maybe what you plan to blog about.
+
